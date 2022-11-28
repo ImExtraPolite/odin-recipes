@@ -1,2 +1,2 @@
 # odin-recipes
-Website for recipes
+Website to show recipes I enjoy using.
