@@ -1,2 +1,2 @@
 # odin-recipes
-Website to show recipes I enjoy using.
+Recipes for food that I think are delicious.
