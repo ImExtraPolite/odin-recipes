@@ -2,9 +2,10 @@ body {
   background-color: rgb(50, 50, 50);
   text-align: center;
   border: solid rgb(25, 25, 25);
-  width: 40%;
+  width: 80%;
   margin: auto;
-  margin-top: 15%;
+  margin-top: 250px;
+  margin-bottom: 500px;
   color: rgb(200, 200, 200);
   font-family: sans-serif;
 }
