@@ -27,3 +27,7 @@ a {
 a:hover {
   color: black;
 }
+
+a:visited {
+  color: rgb(200, 200, 200);
+}
